@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "切換座標",
+  "key.infohud.toggle_facing": "切換朝向",
+  "key.infohud.toggle_biome": "切換生物群系",
+  "key.infohud.toggle_day": "切換天數",
+  "key.infohud.toggle_fps": "切換FPS",
+
+  "hud.infohud.position": "位置：%s, %s, %s",
+  "hud.infohud.facing": "朝向：%s",
+  "hud.infohud.biome": "生物群系：%s",
+  "hud.infohud.day": "天數：%s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "北",
+  "hud.infohud.east": "東",
+  "hud.infohud.south": "南",
+  "hud.infohud.west": "西"
+}

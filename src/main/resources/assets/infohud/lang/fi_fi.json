@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Vaihda koordinaatit",
+  "key.infohud.toggle_facing": "Vaihda suunta",
+  "key.infohud.toggle_biome": "Vaihda biomia",
+  "key.infohud.toggle_day": "Vaihda päivää",
+  "key.infohud.toggle_fps": "Vaihda FPS",
+
+  "hud.infohud.position": "Sijainti: %s, %s, %s",
+  "hud.infohud.facing": "Suunta: %s",
+  "hud.infohud.biome": "Biomi: %s",
+  "hud.infohud.day": "Päivä: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Pohjoinen",
+  "hud.infohud.east": "Itä",
+  "hud.infohud.south": "Etelä",
+  "hud.infohud.west": "Länsi"
+}

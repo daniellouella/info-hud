@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Växla position",
+  "key.infohud.toggle_facing": "Växla riktning",
+  "key.infohud.toggle_biome": "Växla biom",
+  "key.infohud.toggle_day": "Växla dag",
+  "key.infohud.toggle_fps": "Växla FPS",
+
+  "hud.infohud.position": "Position: %s, %s, %s",
+  "hud.infohud.facing": "Riktning: %s",
+  "hud.infohud.biome": "Biom: %s",
+  "hud.infohud.day": "Dag: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Norr",
+  "hud.infohud.east": "Öst",
+  "hud.infohud.south": "Söder",
+  "hud.infohud.west": "Väst"
+}

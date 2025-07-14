@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Slå av/på koordinater",
+  "key.infohud.toggle_facing": "Slå av/på retning",
+  "key.infohud.toggle_biome": "Slå av/på biom",
+  "key.infohud.toggle_day": "Slå av/på dag",
+  "key.infohud.toggle_fps": "Slå av/på FPS",
+
+  "hud.infohud.position": "Posisjon: %s, %s, %s",
+  "hud.infohud.facing": "Retning: %s",
+  "hud.infohud.biome": "Biom: %s",
+  "hud.infohud.day": "Dag: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Nord",
+  "hud.infohud.east": "Øst",
+  "hud.infohud.south": "Sør",
+  "hud.infohud.west": "Vest"
+}

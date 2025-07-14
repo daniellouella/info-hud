@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "infohud",
+	"version": "0.1.0+1.21.7",
+	"name": "Info HUD",
+	"description": "HUD display for gameplay info",
+	"authors": [
+		"Louella"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/info-hud-louella",
+		"sources": "https://github.com/daniellouella/info-hud",
+		"issues": "https://github.com/daniellouella/info-hud/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/infohud/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.louella.InfoHUD"
+		],
+		"fabric-datagen": [
+			"net.louella.InfoHUDDataGenerator"
+		],
+		"client": [
+			"net.louella.gui.InfoHUDDisplay"
+		]
+	},
+	"mixins": [
+		"infohud.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.7",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

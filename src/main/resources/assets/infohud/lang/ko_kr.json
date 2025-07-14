@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "좌표 전환",
+  "key.infohud.toggle_facing": "방향 전환",
+  "key.infohud.toggle_biome": "생물 군계 전환",
+  "key.infohud.toggle_day": "일수 전환",
+  "key.infohud.toggle_fps": "FPS 전환",
+
+  "hud.infohud.position": "위치: %s, %s, %s",
+  "hud.infohud.facing": "방향: %s",
+  "hud.infohud.biome": "생물 군계: %s",
+  "hud.infohud.day": "일수: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "북",
+  "hud.infohud.east": "동",
+  "hud.infohud.south": "남",
+  "hud.infohud.west": "서"
+}

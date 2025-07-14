@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Koordinatları Değiştir",
+  "key.infohud.toggle_facing": "Yönü Değiştir",
+  "key.infohud.toggle_biome": "Biyomu Değiştir",
+  "key.infohud.toggle_day": "Günü Değiştir",
+  "key.infohud.toggle_fps": "FPS Değiştir",
+
+  "hud.infohud.position": "Konum: %s, %s, %s",
+  "hud.infohud.facing": "Yön: %s",
+  "hud.infohud.biome": "Biyom: %s",
+  "hud.infohud.day": "Gün: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Kuzey",
+  "hud.infohud.east": "Doğu",
+  "hud.infohud.south": "Güney",
+  "hud.infohud.west": "Batı"
+}

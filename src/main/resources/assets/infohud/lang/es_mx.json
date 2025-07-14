@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Alternar coordenadas",
+  "key.infohud.toggle_facing": "Alternar dirección",
+  "key.infohud.toggle_biome": "Alternar bioma",
+  "key.infohud.toggle_day": "Alternar día",
+  "key.infohud.toggle_fps": "Alternar FPS",
+
+  "hud.infohud.position": "Posición: %s, %s, %s",
+  "hud.infohud.facing": "Dirección: %s",
+  "hud.infohud.biome": "Bioma: %s",
+  "hud.infohud.day": "Día: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Norte",
+  "hud.infohud.east": "Este",
+  "hud.infohud.south": "Sur",
+  "hud.infohud.west": "Oeste"
+}

@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Koordináták váltása",
+  "key.infohud.toggle_facing": "Irány váltása",
+  "key.infohud.toggle_biome": "Biom váltása",
+  "key.infohud.toggle_day": "Nap váltása",
+  "key.infohud.toggle_fps": "FPS váltása",
+
+  "hud.infohud.position": "Pozíció: %s, %s, %s",
+  "hud.infohud.facing": "Irány: %s",
+  "hud.infohud.biome": "Biom: %s",
+  "hud.infohud.day": "Nap: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Észak",
+  "hud.infohud.east": "Kelet",
+  "hud.infohud.south": "Dél",
+  "hud.infohud.west": "Nyugat"
+}

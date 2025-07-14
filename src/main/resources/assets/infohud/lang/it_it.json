@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Mostra/Nascondi coordinate",
+  "key.infohud.toggle_facing": "Mostra/Nascondi direzione",
+  "key.infohud.toggle_biome": "Mostra/Nascondi bioma",
+  "key.infohud.toggle_day": "Mostra/Nascondi giorno",
+  "key.infohud.toggle_fps": "Mostra/Nascondi FPS",
+
+  "hud.infohud.position": "Posizione: %s, %s, %s",
+  "hud.infohud.facing": "Direzione: %s",
+  "hud.infohud.biome": "Bioma: %s",
+  "hud.infohud.day": "Giorno: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Nord",
+  "hud.infohud.east": "Est",
+  "hud.infohud.south": "Sud",
+  "hud.infohud.west": "Ovest"
+}

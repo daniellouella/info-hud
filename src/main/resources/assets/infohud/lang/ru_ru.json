@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Переключить координаты",
+  "key.infohud.toggle_facing": "Переключить направление",
+  "key.infohud.toggle_biome": "Переключить биом",
+  "key.infohud.toggle_day": "Переключить день",
+  "key.infohud.toggle_fps": "Переключить FPS",
+
+  "hud.infohud.position": "Позиция: %s, %s, %s",
+  "hud.infohud.facing": "Направление: %s",
+  "hud.infohud.biome": "Биом: %s",
+  "hud.infohud.day": "День: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Север",
+  "hud.infohud.east": "Восток",
+  "hud.infohud.south": "Юг",
+  "hud.infohud.west": "Запад"
+}

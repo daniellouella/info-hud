@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "座標の切り替え",
+  "key.infohud.toggle_facing": "向きの切り替え",
+  "key.infohud.toggle_biome": "バイオームの切り替え",
+  "key.infohud.toggle_day": "日数の切り替え",
+  "key.infohud.toggle_fps": "FPSの切り替え",
+
+  "hud.infohud.position": "座標: %s, %s, %s",
+  "hud.infohud.facing": "向き: %s",
+  "hud.infohud.biome": "バイオーム: %s",
+  "hud.infohud.day": "日数: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "北",
+  "hud.infohud.east": "東",
+  "hud.infohud.south": "南",
+  "hud.infohud.west": "西"
+}

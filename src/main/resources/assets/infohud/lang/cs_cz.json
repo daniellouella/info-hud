@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Přepnout souřadnice",
+  "key.infohud.toggle_facing": "Přepnout směr",
+  "key.infohud.toggle_biome": "Přepnout biom",
+  "key.infohud.toggle_day": "Přepnout den",
+  "key.infohud.toggle_fps": "Přepnout FPS",
+
+  "hud.infohud.position": "Pozice: %s, %s, %s",
+  "hud.infohud.facing": "Směr: %s",
+  "hud.infohud.biome": "Biom: %s",
+  "hud.infohud.day": "Den: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Sever",
+  "hud.infohud.east": "Východ",
+  "hud.infohud.south": "Jih",
+  "hud.infohud.west": "Západ"
+}

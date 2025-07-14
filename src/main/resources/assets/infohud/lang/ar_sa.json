@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "تبديل الإحداثيات",
+  "key.infohud.toggle_facing": "تبديل الاتجاه",
+  "key.infohud.toggle_biome": "تبديل الأحيوم",
+  "key.infohud.toggle_day": "تبديل اليوم",
+  "key.infohud.toggle_fps": "تبديل FPS",
+
+  "hud.infohud.position": "الموقع: %s, %s, %s",
+  "hud.infohud.facing": "الاتجاه: %s",
+  "hud.infohud.biome": "الأحيوم: %s",
+  "hud.infohud.day": "اليوم: %s",
+  "hud.infohud.fps": "%s إطار/ثانية",
+  "hud.infohud.north": "شمال",
+  "hud.infohud.east": "شرق",
+  "hud.infohud.south": "جنوب",
+  "hud.infohud.west": "غرب"
+}

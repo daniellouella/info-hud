@@ -1,0 +1,19 @@
+# Gradle & build output
+.gradle/
+build/
+out/
+
+# IntelliJ & JetBrains IDEs
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Generated data
+run/

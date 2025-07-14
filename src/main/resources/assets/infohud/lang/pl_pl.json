@@ -1,0 +1,18 @@
+{
+  "key.categories.infohud": "Info HUD",
+  "key.infohud.toggle_coordinates": "Przełącz współrzędne",
+  "key.infohud.toggle_facing": "Przełącz kierunek",
+  "key.infohud.toggle_biome": "Przełącz biom",
+  "key.infohud.toggle_day": "Przełącz dzień",
+  "key.infohud.toggle_fps": "Przełącz FPS",
+
+  "hud.infohud.position": "Pozycja: %s, %s, %s",
+  "hud.infohud.facing": "Kierunek: %s",
+  "hud.infohud.biome": "Biom: %s",
+  "hud.infohud.day": "Dzień: %s",
+  "hud.infohud.fps": "%s FPS",
+  "hud.infohud.north": "Północ",
+  "hud.infohud.east": "Wschód",
+  "hud.infohud.south": "Południe",
+  "hud.infohud.west": "Zachód"
+}

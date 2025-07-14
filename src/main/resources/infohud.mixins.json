@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.louella.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"Mixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
