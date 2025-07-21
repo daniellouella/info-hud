@@ -14,7 +14,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/infohud/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"net.louella.InfoHUD"
